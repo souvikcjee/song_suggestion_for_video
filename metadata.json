@@ -1,0 +1,5 @@
+{
+  "name": "VideoVibe Analyst",
+  "description": "Upload short videos to get an AI-powered summary and curated song suggestions based on the visual mood and pacing using Gemini 1.5 Pro.",
+  "requestFramePermissions": []
+}
